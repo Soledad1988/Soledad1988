@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Basic CRUD](https://github.com/Soledad1988/AppGym-JDBC-MySQL-Java)
 
-- 📫 How to reach me **brentorres26@gmail.com**
-
 - ⚡ Fun fact **I am curious and I like to learn**
 
 <h3 align="left">Connect with me:</h3>
