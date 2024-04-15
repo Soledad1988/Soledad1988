@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brenda</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Basic CRUD](https://github.com/Soledad1988/sueldosBackEnd)
+- 🔭 I’m currently working on [absence control](https://github.com/Soledad1988/sueldosBackEnd)
 
 - ⚡ Fun fact **I am curious and I like to learn**
 
