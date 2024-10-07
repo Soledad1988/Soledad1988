@@ -32,10 +32,13 @@
 
 <h3 align="left">Herramientas de Business Intelligence:</h3>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Power_BI_Logo.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Looker_Logo.png" alt="Looker Studio" width="40" height="40"/>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2021/06/Power-BI-Logo.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://looker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.gstatic.com/looker/logo/looker.svg" alt="Looker Studio" width="40" height="40"/>
+  </a>
 </p>
-
 <h3 align="left">Frameworks:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
