@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Brenda</h1>
-<h3 align="center">Contadora Pública y Analista de Datos apasionada por transformar información en decisiones estratégicas</h3>
+<h3 align="center">Contadora Pública, Analista de Datos y programadora apasionada por transformar información en decisiones estratégicas</h3>
 
 <p align="center">
   Me considero proactiva y organizada, con un fuerte sentido de responsabilidad y un enfoque analítico. Tengo experiencia en el análisis del entorno y en el diseño de sistemas de reporting que facilitan la visualización de datos en herramientas como Power BI, Looker Studio y Google Sheets.
