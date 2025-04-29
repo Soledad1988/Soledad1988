@@ -1,86 +1,58 @@
-<h1 align="center">Hola 👋, soy Brenda</h1>
-<h3 align="center">Contadora Pública, Analista de Datos y programadora apasionada por transformar información en decisiones estratégicas</h3>
+<h1 align="center">👋 ¡Hola! Soy Brenda</h1>
+
+<h3 align="center">Contadora Pública | Analista de Datos | Programadora</h3>
+
+<p align="center">Apasionada por transformar datos en decisiones estratégicas que impulsen el crecimiento organizacional.</p>
+
+---
+
+🎯 **Sobre mí**
+
+Soy contadora pública con más de 8 años de experiencia en áreas clave como **Recursos Humanos (5 años)**, **análisis impositivo (2 años)** y **docencia en tecnología**. A lo largo de este camino descubrí que **detrás de cada dato hay una historia**, y que esa historia puede optimizar procesos, anticipar escenarios y mejorar resultados.
+
+💡 Esto me llevó a especializarme en análisis de datos, desarrollando **paneles de control**, **informes automatizados** e **indicadores clave** que facilitan una **toma de decisiones basada en evidencia**.
+
+🧠 Me defino como **proactiva, organizada y curiosa**, comprometida con el aprendizaje continuo y siempre en búsqueda de nuevos desafíos.
+
+---
+
+🔍 **Actualmente estoy trabajando en**:  
+[Análisis de datos de delitos](https://github.com/tu-repo/análisis-delitos)
+
+⚡ **Dato curioso**: Soy muy curiosa y me encanta aprender cosas nuevas constantemente.
+
+---
+
+### 🤝 Conectá conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/torres-brenda-soledad)
+
+---
+
+## 🧰 Lenguajes y Herramientas
+
+### 📊 Business Intelligence  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+### 💻 Lenguajes  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧱 Frameworks y Librerías  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🗃️ Bases de Datos  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Herramientas  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📈 Estadísticas
 
 <p align="center">
-  Me considero proactiva y organizada, con un fuerte sentido de responsabilidad y un enfoque analítico. Tengo experiencia en el análisis del entorno y en el diseño de sistemas de reporting que facilitan la visualización de datos en herramientas como Power BI, Looker Studio y Google Sheets.
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soledad1988&theme=default" alt="Streak Stats" />
 </p>
-
-- 🔭 Actualmente, estoy trabajando en [análisis de datos de delitos](https://github.com/tu-repo/análisis-delitos).
-- ⚡ Un dato curioso: **Soy curiosa y me encanta aprender**.
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/torres-brenda-soledad" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torres-brenda-soledad" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soledad1988&layout=compact&theme=default" alt="Top Languages" />
 </p>
-
-<h2 align="center">Habilidades</h2>
-
-<h3 align="left">Lenguajes:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">Herramientas de Business Intelligence:</h3>
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2021/06/Power-BI-Logo.png" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://looker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.gstatic.com/looker/logo/looker.svg" alt="Looker Studio" width="40" height="40"/>
-  </a>
-</p>
-<h3 align="left">Frameworks:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">Bases de Datos:</h3>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">Control de Versiones y Plataformas de Hosting:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">IDEs y Otras Herramientas:</h3>
-<p align="left">
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-800x188.png" alt="Eclipse" width="120" height="40"/>
-  </a>
-  <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.apache.org/images/feather-small.gif" alt="NetBeans" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soledad1988&show_icons=true&locale=en&layout=compact" alt="soledad1988" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soledad1988&" alt="soledad1988" /></p>
-
